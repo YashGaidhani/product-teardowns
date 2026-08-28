@@ -15,6 +15,7 @@ and product demo recordings.
 | [Salesforce Agentforce](./salesforce-agentforce-teardown.md) | Autonomous AI agent platform built into the Salesforce ecosystem | Most significant enterprise agentic AI launch of 2024 — redefines AI-assisted CRM |
 | [Uber](./uber-teardown.md) | Global mobility and delivery platform connecting riders, drivers, merchants, and couriers in real time | Benchmark for multi-sided marketplace operations, real-time dispatch algorithms, and high-frequency consumer UX |
 | [Google Pay (GPay)](./gpay-teardown.md) | Digital wallet and UPI-based payment platform enabling peer-to-peer transfers and merchant checkouts | Industry standard for frictionless digital payments, consumer financial engagement, and reward-driven retention |
+| [Cross-Border Payments](./cross-border-payments-product-analysis.md) | End-to-end analysis of international payment flow architecture, corporate API design, and payment initiation portal UX across SWIFT, correspondent banking, and fintech overlay rails | Core infrastructure for BFSI and fintech PM roles — exposes the product gaps behind a $150B fee ecosystem that technology has not solved but product design can |
 
 ---
 
