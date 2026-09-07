@@ -1,4 +1,4 @@
-```markdown
+
 # Product Teardown & Strategic Architecture: eBay Teammate Intelligence Panel 
 *(Assisted Service — Financial Services, Risk & Trust)*
 
