@@ -2,7 +2,7 @@
 # Product Teardown & Strategic Architecture: eBay Teammate Intelligence Panel 
 *(Assisted Service — Financial Services, Risk & Trust)*
 
-**Target Role:** Product Manager — Assisted Service | Job ID: R0074176 (Bangalore)  
+**Target Role:** Product Manager — Assisted Service   
 **Author:** Yash Gaidhani (Manager Consulting Expert, CGI India | Ex-Veritas Technologies)  
 
 ---
