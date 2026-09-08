@@ -3,7 +3,8 @@
 *(Assisted Service — Financial Services, Risk & Trust)*
 
 **Target Role:** Product Manager — Assisted Service   
-**Author:** Yash Gaidhani (Manager Consulting Expert, CGI India | Ex-Veritas Technologies)  
+**Author:** Yash Gaidhani (Manager Consulting Expert, CGI | XLRI Jamshedpur | Ex-Veritas Technologies)  
+**Prototype:** https://e-bay-teammate-intelligence-panel--yashgaidhani007.replit.app
 
 ---
 
