@@ -144,8 +144,14 @@ graph TD
 
 ## 6. Strategic Alignment: The C-Suite & Operational Compass
 
-* **Jamie Iannone (CEO):** Driving growth through "Focus Categories" (collectibles, luxury goods) where authentic trust and condition verification are competitive differentiators. Mandate for "agentic commerce" to scale operational efficiency.
-* **Dan Leiva (VP CS Technology):** "Accountability over automation theater." We must build a system where the AI compiles the evidence, isolates policy boundaries, but places a named human teammate at the final decision gate.
+### 6.1 Jamie Iannone (CEO): Agentic Commerce & Focus Categories
+* **The Strategy:** Driving growth through "Focus Categories" (collectibles, luxury goods, auto parts). Iannone noted in the [Q2 2025 earnings call](https://www.customerexperiencedive.com/news/ebay-ceo-ai-change-customer-experience/756492/) that these categories are where *"trust, storytelling and scarcity are core to the purchase experience."*
+* **The AI Mandate:** Emphasizing internal operational AI deployments to eliminate operational friction. Iannone has explicitly positioned eBay to win in an [**"agentic commerce future,"**](https://www.customerexperiencedive.com/news/ebay-ceo-ai-change-customer-experience/756492/) leveraging AI to scale transaction velocity without linearly expanding support OpEx.
+
+* ### 6.2 Dan Leiva (VP CS Technology): Governance & Accountability
+* [**"Accountability over automation theater. If ownership is not named, governance is not real."**](https://cxamplify.com/aboutdan)
+* [**"Human judgment over blind efficiency. The goal is not to remove people from every decision. The goal is to place judgment where it matters most."**](https://cxamplify.com/aboutdan)
+* **The Operational Translation:** We must never deploy an autonomous AI that silently takes balance-sheet-impacting financial decisions. We must build a system where the AI compiles the evidence, isolates policy boundaries, and places a named human teammate at the final decision gate.
 
 ---
 
