@@ -2,7 +2,9 @@
 *(Enterprise ERP, Professional Services, Margin Defense & Cashflow Optimization)*
 
 **Target Role:** Product Manager, AI-First Products
+
 **Author:** Yash Gaidhani (Manager Consulting Expert in AI Product Strategy, CGI | XLRI Jamshedpur)
+
 **Prototype Base:** Lovable / v0 Enterprise Workspace
 
 ---
