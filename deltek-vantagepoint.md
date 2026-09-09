@@ -143,3 +143,14 @@ graph TD
 4. **Execution:** The PM reviews the 3-point explainability checklist and clicks "Approve & Send to Client."
 5. **Total Time:** A 3-week end-of-month reconciliation delay is compressed into a 4-minute intra-sprint approval, mathematically defending the project's net margin.
 
+
+---
+
+## 9. Appendix & Data Methodology
+*The quantitative metrics utilized in this teardown are derived from a combination of validated industry benchmarks and standard product hypotheses:*
+*   **Industry Benchmarks:** Baseline metrics (e.g., 73-day DSO, 15% target EBIT margins) are synthesized from historical A&E market standards, including the *Deltek Clarity Architecture & Engineering Industry Study* and *PSMJ Resources* benchmarks.
+*   **Product Hypotheses:** Projected impacts (e.g., 30% DSO reduction, 43% shadow-spreadsheet adoption) represent algorithmic transformation estimates based on enterprise PSA telemetry and cognitive AI deployment heuristics.
+*   **Case Walkthroughs:** The $18,500 scope creep scenario is an illustrative mathematical model designed to demonstrate the L2 Agentic workflow execution. 
+
+*In a live product environment, these hypotheses would be immediately validated against Deltek Vantagepoint's internal telemetry and user adoption data prior to engineering allocation.*
+
